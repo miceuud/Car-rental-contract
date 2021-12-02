@@ -7,9 +7,10 @@
 - should not request more than one per time
 
 
-### Contract update
+### Contract update to be made
 
 - Add payment functionality 
+- optimize for gas
 - Payment should be in USD
 - Create DApp
 - Rental User Dashboard in Dapp
